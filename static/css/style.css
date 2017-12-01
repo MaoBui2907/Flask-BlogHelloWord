@@ -1,0 +1,32 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+}
+
+<!--
+Style header-- >
+#header {
+
+}
+#header h1 {
+    font-size: 3.2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+#header h3 {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+
+#detail {
+    background-color: #2a1737;
+}
+#detail p {
+    margin:0 auto;
+    text-align: center;
+    color: #e4d6df;
+}
