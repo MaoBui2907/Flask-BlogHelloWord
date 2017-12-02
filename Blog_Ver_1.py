@@ -1,6 +1,5 @@
 from flask import Flask
 from flask import render_template, request, redirect
-from flask_sqlalchemy import SQLAlchemy
 from dummy import *
 
 engine = create_engine('mysql://root:root@localhost/BlogVer1?charset=utf8')
